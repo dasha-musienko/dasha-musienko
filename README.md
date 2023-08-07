@@ -35,7 +35,7 @@ As a curious learner and a firm believer in "learning by doing," I consistently 
 
 ### 📊 Github Stats
   ![Dasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasha-musienko&show_icons=true&bg_color=ffffff&text_color=000000&title_color=000000&border_color=000000&icon_color=7059CA&border_radius=12&line_height=28,5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasha-musienko&layout=donut&border_radius=12&line_height=26)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasha-musienko&layout=donut&border_radius=12&line_height=26&exclude_repo=goit-markup-hw-01,goit-markup-hw-02,goit-markup-hw-03,goit-markup-hw-04,goit-markup-hw-05,goit-markup-hw-06,goit-markup-hw-07,goit-markup-hw-08 )
 <br>
 ### 🏁 Codewars Stats
 [![codewars](https://www.codewars.com/users/dasha-musienko/badges/large)](https://www.codewars.com/users/dasha-musienko)  

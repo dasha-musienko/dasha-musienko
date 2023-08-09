@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate and ambitious Junior Frontend De
 </br>
 
 
-### 🚀Diverse Pet Projects!
+### 🚀Diverse Projects!
 As a curious learner and a firm believer in "learning by doing," I consistently work on my own pet projects. Each repository on my GitHub account is a testament to my growth as a developer, showcasing a diverse range of projects that explore different technologies and concepts. From personal portfolio sites to dynamic web applications, I pour my heart and soul into these projects.
 </br>
 </br>
